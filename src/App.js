@@ -12,8 +12,8 @@ const App = ()  =>{
  };
   return (
 <div className="container"><button onClick={getJoke}>Dad Joke</button>
-<br/><p>Hi!<p>
-  </div>
+<br/><p>Hi!</p>
+</div>
   );
 }
 export default App;
